@@ -22,3 +22,6 @@ cuando salga la beta 2 tendra boton permisos y play y mejorar engine
 
 lemoniado dando adelantos de la 0.8 y code cuando aun no salia
 [clickea aqui para entrar a ese video](https://www.youtube.com/watch?v=sdCQu2wECCo&list=PLPY5IqDj3BOeBccS_55iEQJIQLovK8o34&index=9),
+re cuerden lemoniado vera el port cuando salga
+[cuanta de lemoniado de gamebanana para darle comentarios para apoyarlo](https://gamebanana.com/members/1997839),
+
