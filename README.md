@@ -17,3 +17,8 @@ el mod esta en beta
 y marca de agua
 boton de yt  en pc envia a canal de lemoniado en android tambien lo ara
 [canal de lemoniado](https://www.youtube.com/channel/UCmdcI4Ma8ZWDnG10QWlUv8g),
+cuando salga la beta 2 tendra boton permisos y play y mejorar engine
+[link a su video de beta 1](https://www.youtube.com/watch?v=DyYXyUfMrbU&list=PLPY5IqDj3BOeBccS_55iEQJIQLovK8o34&index=10),
+
+lemoniado dando adelantos de la 0.8 y code cuando aun no salia
+[clickea aqui para entrar a ese video](https://www.youtube.com/watch?v=sdCQu2wECCo&list=PLPY5IqDj3BOeBccS_55iEQJIQLovK8o34&index=9),
