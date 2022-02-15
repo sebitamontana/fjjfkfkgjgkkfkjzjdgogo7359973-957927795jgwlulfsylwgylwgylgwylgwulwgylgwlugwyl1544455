@@ -1,0 +1,13 @@
+>bgmusic<LunchboxScary
+>isPixel<
+>image<320,170,spiritFaceForward,6
+>fontcolor<0xffffffff,0xff000000
+>portraitcolors<0
+
+:none:Soy el virus de tu compu
+:none:tanta gente tonta me instalo queriendo ponerse minecraft gratis
+:none:va a ser un viru como yo pa
+:none:me ayudas a infectar las mac o hacer un ransomware?
+:none:si no lo haces te recago a piñas pa
+
+>FadeOutBGMusic<
