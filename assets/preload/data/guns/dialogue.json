@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "aaaaa"
+		},
+		{
+			"speed": 0.3,
+			"portrait": "tank",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "que"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no te acordas?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ahh si"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "(pensando) siento que voy a ganar y me va a disparar "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "esta re zz la cancion que acabas de cantar xddddddddd"
+		}
+	]
+}

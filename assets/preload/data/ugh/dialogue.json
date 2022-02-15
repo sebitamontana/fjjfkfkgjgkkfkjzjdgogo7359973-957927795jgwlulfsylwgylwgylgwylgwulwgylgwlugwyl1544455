@@ -1,0 +1,193 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "bueno...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "hoy me toca ir a mendoza, ya guarde todo",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "a ver que hora es",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "7:30 AM",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "shocked",
+			"text": "hace mucho que no entro a un avion, tengo miedo :(",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "8:30 AM",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "9:30 AM",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "shocked",
+			"text": "que!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "paro el avion...",
+			"boxState": "normal",
+			"speed": 0.145,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "voy a animarme a ver por la ventana",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "ahhh",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "nada mas ya termino el viaje",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "11:30 AM",
+			"boxState": "normal",
+			"speed": 0.12,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "wooooow",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "mira esa sierra",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "es enooooooooooooooooooorme",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "hey!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "what?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "tengo que revisarte",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "tank"
+		},
+		{
+			"expression": "talk",
+			"text": "(pensando) ufffffffff",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "es mi trabajo -_-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "tank"
+		},
+		{
+			"expression": "talk",
+			"text": "espera",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "tank"
+		},
+		{
+			"expression": "talk",
+			"text": "porque tenes un microfono?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "tank"
+		},
+		{
+			"expression": "talk",
+			"text": "(pensando) fck",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "rapiamos",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "pero si pierdo dos veces te disparo con mi pistola",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "tank"
+		},
+		{
+			"expression": "shocked",
+			"text": "ok-_-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}
