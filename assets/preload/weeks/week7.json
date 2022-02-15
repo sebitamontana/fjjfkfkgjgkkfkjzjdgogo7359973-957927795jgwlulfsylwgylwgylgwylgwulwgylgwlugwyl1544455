@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"ugh",
+			"tankman",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"guns",
+			"tankman",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"stress",
+			"tankgod",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "mendoza",
+	"weekCharacters": [
+		"tankman",
+		"bf",
+		"gf"
+	],
+	"storyName": "El viaje a mendoza",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
