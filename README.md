@@ -26,3 +26,4 @@ re cuerden lemoniado vera el port cuando salga
 [cuanta de lemoniado de gamebanana para darle comentarios para apoyarlo](https://gamebanana.com/members/1997839),
 ise una campaa para appollarlo
 (https://sites.google.com/view/appollar-a-lemoniado/inicio)
+llegara pronto
