@@ -50,6 +50,7 @@ class CreditsState extends MusicBeatState
 			['M.A. Jigsaw',		    'majigsaw',		    'Main Coder of The Port',	 'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ',	'0xFFC30085'],
 			['Android Port'],
 			['patricio Montana skr',		    'majigsaw',		    'porter ir the mod',	 'https://youtube.com/channel/UCMr5sqTwZ7CiWFGYF3LcSFA',	'0xFFC30085'],
+                        ['henry',		    'majigsaw',		    'me enseño a compilar el source de movil',	 'https://youtube.com/c/ShadowLOL7',	'0xFFC30085'],
 			['mod'],
 			['lemoniado mod',		    'majigsaw',		    'Mod creathor',	 'https://youtube.com/channel/UCmdcI4Ma8ZWDnG10QWlUv8g',	'0xFFC30085'],
 			['Psych Engine Team'],
